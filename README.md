@@ -6,23 +6,22 @@ This repository contains utilities and examples for performing Local LLM (Large 
 
 ## Table of Contents
 
-- [Ollama API Inference](#ollama-api)
-  - [CLI](#cli-inference---ollama-api)
-  - [Gradio-UI](#gradio-ui---ollama-api)
-  - [Streamlit-UI](#streamlit-ui---ollama-api)
-  
+- Ollama API Inference
+  - CLI
+  - Gradio-UI
+  - Streamlit-UI
 
-- [Langchain Inference](#langchain)
-  - [Initial testing](#initial-testing---langchain)
-  - [CLI](#cli---langchain)
-  - [Gradio-UI](#gradio-ui---langchain)
-  - [Streamlit-UI](#streamlit-ui---langchain)
-  - [Open-WebUI](#open-webui---langchain)
-  
+- Langchain Inference
+  - Initial testing
+  - CLI
+  - Gradio-UI
+  - Streamlit-UI
+  - Open-WebUI
 
-- [Extras](#extras)
-  - [HuggingFace API](#huggingface-api)
-  - [Anthropic API](#anthropic-api)
+- Extras
+  - HuggingFace API
+  - Anthropic API
+
 
 ## Installation
 
