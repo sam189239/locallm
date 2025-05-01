@@ -39,6 +39,8 @@ This repository contains utilities and examples for performing Local LLM (Large 
 
 - Modular functions in locallm can be used directly as utility functions and files in the ui directory can be run directly for UI based inference.
 
+- Refer to the YouTube Demo: coming soon
+
 ## Tech Stack
 
 - **Ollama API**: API for running local large language models.
